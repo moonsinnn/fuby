@@ -28,7 +28,7 @@ android {
     namespace = "eu.kanade.tachiyomi"
 
     defaultConfig {
-        applicationId = "app.komikku"
+        applicationId = "app.fuby"
 
         versionCode = 71
         versionName = "1.12.2"
